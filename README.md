@@ -1,2 +1,2 @@
 # sir-test
-Testing environment for the SIR module
+Testing environment for the SIR module.
